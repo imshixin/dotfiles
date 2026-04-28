@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Vim (Terminal)
+Comment=Edit text files in terminal using Vim
+# 关键在这里：用你的终端调用 vim
+# 如果你是 Alacritty: Exec=alacritty -e vim %F
+# 如果你是 Kitty:     Exec=kitty -e vim %F
+# 如果你是 Foot:      Exec=foot vim %F
+Exec=alacritty -e vim %F
+Icon=gvim
+Terminal=false
+Categories=Utility;TextEditor;
+MimeType=text/plain;text/x-makefile;text/x-c++src;text/x-csrc;text/x-chdr;
