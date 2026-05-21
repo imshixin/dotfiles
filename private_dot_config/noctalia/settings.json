@@ -167,7 +167,13 @@
                         "输入法",
                         "[VMess] JMS-474821@c86s801.portablesubmarines.com:60635(45***13:60635)",
                         "[VMess] JMS-474821@c86s801.portablesubmarines.com:60635(45***31:60635)",
-                        "[VMess] JMS-474821@c86s5.portablesubmarines.com:60635(162***53:60635)"
+                        "[VMess] JMS-474821@c86s5.portablesubmarines.com:60635(162***53:60635)",
+                        "[VMess] JMS-474821@c86s801.portablesubmarines.com:60635(45***63:60635)",
+                        "图片轻松拷贝: Stopped.\n服务器: Stopped.\n上传服务: Stopped.\n历史记录: Syncing Disabled.",
+                        "中州韵",
+                        "图片轻松拷贝: Stopped.\n服务器: Stopped.\n上传服务: Stopped.\n历史记录: Syncing Disabled.\n连接详情: Running.",
+                        "[VMess] JMS-474821@c86s3.portablesubmarines.com:60635(89***21:60635)",
+                        "[VMess] JMS-474821@c86s3.portablesubmarines.com:60635(67***138:60635)"
                     ]
                 },
                 {
@@ -339,7 +345,7 @@
     "dock": {
         "animationSpeed": 1,
         "backgroundOpacity": 1,
-        "colorizeIcons": false,
+        "colorizeIcons": true,
         "deadOpacity": 0.6,
         "displayMode": "auto_hide",
         "enabled": true,
