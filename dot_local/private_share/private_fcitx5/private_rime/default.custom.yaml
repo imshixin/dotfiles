@@ -1,0 +1,15 @@
+patch:
+  # 方案列表（只留rime-ice）
+  schema_list:
+    - schema: rime_ice
+
+  # 候选页大小（Windows 习惯是 9 个）
+  menu/page_size: 9
+
+  # 横排候选（Windows 风格）
+  style/horizontal: true
+
+  # Lua 配置: 以词定字（上屏当前词句的第一个或最后一个字），和中括号翻页有冲突
+  #key_binder:
+  #  select_first_character: ""  # 左中括号 [
+  #  select_last_character: ""  # 右中括号 ]
